@@ -1,0 +1,1 @@
+# you can download data set from here -> https://www.kaggle.com/datasets/arjuntejaswi/plant-village?resource=download
